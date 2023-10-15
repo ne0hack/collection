@@ -14,10 +14,8 @@
 - [vim/vim](https://github.com/vim/vim)
 
 ## Vim plugins
-- [weirongxu/plantuml-previewer.vim](https://github.com/stars/ne0hack/lists/terminal)
 - [LunarWatcher/auto-pairs](https://github.com/LunarWatcher/auto-pairs)
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary)
-- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
 - [shime/vim-livedown](https://github.com/shime/vim-livedown)
