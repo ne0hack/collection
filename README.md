@@ -7,6 +7,8 @@
 - [iv-org/invidious](https://github.com/iv-org/invidious)
 
 ## Terminal features
+- [Homebrew/brew](https://github.com/Homebrew/brew)
+- [git/git](https://github.com/git/git)
 - [nvbn/thefuck](https://github.com/nvbn/thefuck)
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 - [vim/vim](https://github.com/vim/vim)
