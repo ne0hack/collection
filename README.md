@@ -23,10 +23,10 @@
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
 
-## IDE plugins (VSCodium)
-- [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-- [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-- [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker)
+## IDE extensions (VSCodium)
+- [Microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+- [Microsoft/pyright](https://github.com/Microsoft/pyright)
+- [Microsoft/vscode-docker](https://github.com/microsoft/vscode-docker)
 - [Borvik/vscode-postgres](https://github.com/Borvik/vscode-postgres)
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 
