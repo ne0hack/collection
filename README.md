@@ -33,4 +33,3 @@
 ## Other
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [HirbodBehnam/Shadowsocks-Cloak-Installer](https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer)
