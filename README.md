@@ -32,4 +32,5 @@
 
 ## Other
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
