@@ -29,6 +29,7 @@
 - [Microsoft/vscode-docker](https://github.com/microsoft/vscode-docker)
 - [Borvik/vscode-postgres](https://github.com/Borvik/vscode-postgres)
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
 
 ## Other
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)
