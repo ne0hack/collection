@@ -3,7 +3,6 @@
 ## Programs
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
-- [yattee/yattee](https://github.com/yattee/yattee)
 - [iv-org/invidious](https://github.com/iv-org/invidious)
 
 ## Terminal features
