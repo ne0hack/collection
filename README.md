@@ -29,6 +29,7 @@
 - [Borvik/vscode-postgres](https://github.com/Borvik/vscode-postgres)
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
+- [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 
 ## Other
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)
