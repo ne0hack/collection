@@ -25,7 +25,7 @@
 
 ## IDE extensions (VSCodium)
 - [Microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-- [Microsoft/pyright](https://github.com/Microsoft/pyright)
+- [Microsoft/vscode-pylint](https://github.com/microsoft/vscode-pylint) OR [Microsoft/pyright](https://github.com/microsoft/pyright)
 - [Microsoft/vscode-docker](https://github.com/microsoft/vscode-docker)
 - [Borvik/vscode-postgres](https://github.com/Borvik/vscode-postgres)
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
