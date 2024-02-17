@@ -33,6 +33,7 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker)
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
 
 ## Other
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)
