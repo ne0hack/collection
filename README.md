@@ -4,6 +4,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
 - [iv-org/invidious](https://github.com/iv-org/invidious)
+- [KeyboardCleanTool](https://folivora.ai/keyboardcleantool)
 
 ## Terminal features
 - [Homebrew/brew](https://github.com/Homebrew/brew)
