@@ -38,4 +38,5 @@
 ## Other
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
