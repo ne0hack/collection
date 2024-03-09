@@ -11,9 +11,10 @@
 ## Terminal features
 - [Homebrew/brew](https://github.com/Homebrew/brew)
 - [git/git](https://github.com/git/git)
+- [vim/vim](https://github.com/vim/vim)
 - [nvbn/thefuck](https://github.com/nvbn/thefuck)
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- [vim/vim](https://github.com/vim/vim)
+- [htop-dev/htop](https://github.com/htop-dev/htop)
 
 ## Vim plugins
 - [LunarWatcher/auto-pairs](https://github.com/LunarWatcher/auto-pairs)
