@@ -35,6 +35,7 @@
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 - [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
+- [darkriszty/MarkdownTablePrettify-VSCodeExt](https://github.com/darkriszty/MarkdownTablePrettify-VSCodeExt)
 
 ## Other
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)
